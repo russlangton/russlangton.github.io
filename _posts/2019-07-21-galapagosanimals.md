@@ -1,13 +1,15 @@
 ---
 layout: post
-title: galapagosanimals
+title: galapagos
 ---
 
-date
+May 2019
 
 ![_config.yml]({{ site.baseurl }}/images/galapagosanimals/DSC01409.jpg)
 
 ![_config.yml]({{ site.baseurl }}/images/galapagosanimals/IMG_3849.jpg)
+
+![_config.yml]({{ site.baseurl }}/images/galapagosanimals/DSC01906.jpg)
 
 ![_config.yml]({{ site.baseurl }}/images/galapagosanimals/DSC01345.jpg)
 
@@ -16,8 +18,6 @@ date
 ![_config.yml]({{ site.baseurl }}/images/galapagosanimals/DSC01336.jpg)
 
 ![_config.yml]({{ site.baseurl }}/images/galapagosanimals/DSC01928.jpg)
-
-![_config.yml]({{ site.baseurl }}/images/galapagosanimals/DSC01906.jpg)
 
 ![_config.yml]({{ site.baseurl }}/images/galapagosanimals/DSC01858.jpg)
 
