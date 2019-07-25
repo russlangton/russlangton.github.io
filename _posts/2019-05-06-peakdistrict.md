@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Peak District
+title: peak district
 ---
 
-April 2019
+april 2019
 
 
 ![_config.yml]({{ site.baseurl }}/images/peakdistrict/DSC01205.jpg)

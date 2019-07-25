@@ -3,7 +3,7 @@ layout: post
 title: santa cruz, galapagos
 ---
 
-May 2019
+may 2019
 
 puerto ayora
 

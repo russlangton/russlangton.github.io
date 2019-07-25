@@ -3,7 +3,7 @@ layout: post
 title: galapagos
 ---
 
-May 2019
+may 2019
 
 
 ![_config.yml]({{ site.baseurl }}/images/galapagosanimals/DSC01336.jpg)

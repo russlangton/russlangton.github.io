@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Misc, Colorado
+title: misc, colorado
 ---
 
-September 2018
+september 2018
 
 gas station, estes park
 ![_config.yml]({{ site.baseurl }}/images/colorado-misc/IMG_2417.jpg)
