@@ -1,9 +1,9 @@
 ---
 layout: post
-title: mtrainier
+title: seattle and mount rainier
 ---
 
-date
+august 2019
 
 ![_config.yml]({{ site.baseurl }}/images/mtrainier/DSC02072.jpg)
 
