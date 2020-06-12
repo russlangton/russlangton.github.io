@@ -16,7 +16,7 @@ newpath = "/Users/russelllangton/Pictures/lightroom_exports/" + args.indir
 
 
 files = [f for f in listdir(newpath)]
-
+files.sort()
 print(files)
 
 now = datetime.date.today()
